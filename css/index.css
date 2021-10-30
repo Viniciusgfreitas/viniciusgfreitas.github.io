@@ -1,0 +1,30 @@
+/* .menu {
+  background-color: #ccccff;
+  border-bottom: 1px solid #808080;
+}
+
+body {
+  background-color: ;#e6e6e6
+} */
+h2{
+  text-align: center;
+}
+.main-title{
+  text-align: center;
+}
+
+.card{
+  padding: 10px;
+  text-align: center;
+  margin : 15px;
+  box-shadow: 6px 6px #bfbfbf;
+}
+
+.row-card{
+  padding-right: 0px;
+  margin-left  : -6px;
+}
+
+/* .title-card{
+  text-align: center;
+} */
